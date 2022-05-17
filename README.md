@@ -10,7 +10,7 @@
 |  NLP için kullanacağımız basit String işlemleri fln var.    | [Selda Bagcan](NLP_Temel_String.ipynb)     |
 |  Bir örnek uygulama denemesi gibi bişey. Film yorumlarından yorumun pozitif mi negatif mi olduğunu analiz eden bir model oluşturduk.     | [Kamuran Akkor](NLP_Sentiment_Binary.ipynb) |
 |  Tensorflow ile bastan sona uzun bir NLP notebooku. Icinde bir suru konu var belki parcalarim yakinda ama simidilik kalsin.    | [Cengiz Kurtoglu](NLP_Tensorflow.ipynb)  |
-|  MIT 6.S191 Introduction to Deep Learning  kursunun RNN ile muzik olusturma uygulmasi.  | [Güllü](MITlab_MusicGeneration.ipynb)  |
+|  MIT 6.S191 Introduction to Deep Learning  kursunun RNN ile muzik olusturma uygulamasi.  | [Güllü](MITlab_MusicGeneration.ipynb)  |
 
 
 
